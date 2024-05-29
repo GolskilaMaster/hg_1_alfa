@@ -1,1 +1,7 @@
-# hg_1_alfa
+# Alfa, Samuel
+
+- [x] Alfa, Samuel, Caracas
+- [ ] Bravo, Christian, Caracas
+- [ ] Charlie, Jonathan, Miranda
+- [ ] Delta
+- [ ] Echo
